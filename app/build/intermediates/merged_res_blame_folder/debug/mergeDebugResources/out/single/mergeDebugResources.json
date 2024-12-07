@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/layout_content_main.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/layout_layout_item.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/layout/layout_item.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/drawable_circle_background.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/layout_fragment_detail.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/xml_backup_rules.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.lcj.allpharm.app-main-51:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/drawable_ic_plus.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/drawable_chip_text_color.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/drawable/chip_text_color.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/drawable_top_background.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/drawable/top_background.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.lcj.allpharm.app-main-51:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.lcj.allpharm.app-main-51:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/drawable_ic_arrow_drop_down.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/drawable/ic_arrow_drop_down.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/drawable_rounded_rectangle_stroke.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/drawable/rounded_rectangle_stroke.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/layout_activity_main.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.lcj.allpharm.app-main-51:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/drawable_ic_heart.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/drawable/ic_heart.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.lcj.allpharm.app-main-51:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/drawable_ic_open_yak.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/drawable/ic_open_yak.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/navigation_nav_graph.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/xml_data_extraction_rules.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/drawable_ic_cube.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/drawable/ic_cube.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/layout_detail_item_layout.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/layout/detail_item_layout.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/drawable_ic_yak_bang.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/drawable/ic_yak_bang.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.lcj.allpharm.app-main-51:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/layout_fragment_home.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.lcj.allpharm.app-main-51:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/drawable_ic_back.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.lcj.allpharm.app-main-51:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/menu_menu_main.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/drawable_ic_dia.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/drawable/ic_dia.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.lcj.allpharm.app-main-51:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/drawable_rounded_rectangle_background.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/drawable/rounded_rectangle_background.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.lcj.allpharm.app-main-51:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/drawable_rounded_rectangle_background_blue.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/drawable/rounded_rectangle_background_blue.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-debug-49:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.lcj.allpharm.app-main-51:/mipmap-anydpi/ic_launcher.xml"
+    }
+]

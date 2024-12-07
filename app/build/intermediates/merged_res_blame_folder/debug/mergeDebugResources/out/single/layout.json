@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.lcj.allpharm.app-mergeDebugResources-48:/layout/detail_item_layout.xml",
+        "source": "com.lcj.allpharm.app-main-51:/layout/detail_item_layout.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-mergeDebugResources-48:/layout/content_main.xml",
+        "source": "com.lcj.allpharm.app-main-51:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.lcj.allpharm.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-mergeDebugResources-48:/layout/fragment_detail.xml",
+        "source": "com.lcj.allpharm.app-main-51:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-mergeDebugResources-48:/layout/layout_item.xml",
+        "source": "com.lcj.allpharm.app-main-51:/layout/layout_item.xml"
+    },
+    {
+        "merged": "com.lcj.allpharm.app-mergeDebugResources-48:/layout/fragment_home.xml",
+        "source": "com.lcj.allpharm.app-main-51:/layout/fragment_home.xml"
+    }
+]
